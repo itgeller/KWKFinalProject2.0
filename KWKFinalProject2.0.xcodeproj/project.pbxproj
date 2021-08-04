@@ -16,6 +16,7 @@
 		13B8253526BB010B006D65E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13B8253326BB010B006D65E6 /* LaunchScreen.storyboard */; };
 		13B8254026BB010C006D65E6 /* KWKFinalProject2_0Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13B8253F26BB010C006D65E6 /* KWKFinalProject2_0Tests.swift */; };
 		13B8254B26BB010C006D65E6 /* KWKFinalProject2_0UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13B8254A26BB010C006D65E6 /* KWKFinalProject2_0UITests.swift */; };
+		13B8255B26BB36BE006D65E6 /* TaskListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13B8255A26BB36BE006D65E6 /* TaskListTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		13B8254626BB010C006D65E6 /* KWKFinalProject2.0UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KWKFinalProject2.0UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B8254A26BB010C006D65E6 /* KWKFinalProject2_0UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KWKFinalProject2_0UITests.swift; sourceTree = "<group>"; };
 		13B8254C26BB010C006D65E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		13B8255A26BB36BE006D65E6 /* TaskListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				13B8253326BB010B006D65E6 /* LaunchScreen.storyboard */,
 				13B8253626BB010B006D65E6 /* Info.plist */,
 				13B8252E26BB0105006D65E6 /* KWKFinalProject2_0.xcdatamodeld */,
+				13B8255A26BB36BE006D65E6 /* TaskListTableViewController.swift */,
 			);
 			path = KWKFinalProject2.0;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				13B8252626BB0105006D65E6 /* AppDelegate.swift in Sources */,
 				13B8253026BB0105006D65E6 /* KWKFinalProject2_0.xcdatamodeld in Sources */,
 				13B8252826BB0105006D65E6 /* SceneDelegate.swift in Sources */,
+				13B8255B26BB36BE006D65E6 /* TaskListTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
